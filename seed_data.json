@@ -1,0 +1,52 @@
+[
+  {
+    "model": "booking.fitnessclass",
+    "pk": 1,
+    "fields": {
+      "name": "Yoga",
+      "instructor": "Nagesh",
+      "datetime": "2025-06-10T08:00:00+05:30",
+      "available_slots": 5
+    }
+  },
+  {
+    "model": "booking.fitnessclass",
+    "pk": 2,
+    "fields": {
+      "name": "Zumba",
+      "instructor": "Ram",
+      "datetime": "2025-06-10T10:00:00+05:30",
+      "available_slots": 13
+    }
+  },
+  {
+    "model": "booking.fitnessclass",
+    "pk": 3,
+    "fields": {
+      "name": "Pilates",
+      "instructor": "Meena",
+      "datetime": "2025-06-11T09:00:00+05:30",
+      "available_slots": 10
+    }
+  },
+  {
+    "model": "booking.fitnessclass",
+    "pk": 4,
+    "fields": {
+      "name": "HIIT",
+      "instructor": "Ravi",
+      "datetime": "2025-06-11T18:00:00+05:30",
+      "available_slots": 8
+    }
+  },
+  {
+    "model": "booking.fitnessclass",
+    "pk": 5,
+    "fields": {
+      "name": "Strength Training",
+      "instructor": "Anita",
+      "datetime": "2025-06-12T07:30:00+05:30",
+      "available_slots": 12
+    }
+  }
+]
