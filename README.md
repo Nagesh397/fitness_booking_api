@@ -138,6 +138,7 @@ curl -X GET "http://localhost:8000/bookings?email=nagu@example.com"
   {"id":4,"client_name":"nagu","client_email":"nagu@example.com","booked_at":"2025-06-10T06:23:06.939572Z","fitness_class":3},
   {"id":5,"client_name":"nagu","client_email":"nagu@example.com","booked_at":"2025-06-10T06:33:13.100902Z","fitness_class":3}
 ]
+```
 ---
 
 ## 🌐 Timezone Support
